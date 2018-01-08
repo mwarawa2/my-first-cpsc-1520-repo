@@ -14,3 +14,8 @@ I have learnt how to
 - Create a good .gitattributes fule - from [GitAttributes.io]
 (https://gitattributes.io)
 - Commit my changes from within Visual Studio Code
+- Commit my changes via the comman line
+    - 'git add'
+    - 'git status'
+    - 'git commit -m "My Messages (in quotes)"'
+    - 'git push'
